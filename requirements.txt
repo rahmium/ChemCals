@@ -1,6 +1,1 @@
-streamlit
-streamlit-option-menu
-numpy
-time
-streamlit-lottie
-request
+
