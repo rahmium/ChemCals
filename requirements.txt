@@ -1,7 +1,6 @@
 streamlit
-streamlit_option_menu
+streamlit-option-menu
 numpy
 time
-json
-streamlit_lottie
+streamlit-lottie
 request
