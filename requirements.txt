@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+numpy
+time
+json
+streamlit_lottie
+request
